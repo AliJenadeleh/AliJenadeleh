@@ -2,8 +2,8 @@
 
 ## I'm Ali Jenadeleh
 
-<a href='https://alijenadeleh.ir'>Online Resume</a>
-<a href='https://alijenadeleh.ir/resume.pdf'>Resume (PDF)</a>
+<a href='https://alijenadeleh.ir'>Online Resume</a> , 
+<a href='https://alijenadeleh.ir/resume.pdf'>(PDF Version)</a>
 
 Software developer (C#, ASP.Net, MVC, Blazor, Razor Pages)
 <p>
