@@ -10,7 +10,17 @@ I'm a full stack software developer with more than 17 years of experience in cod
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/alijenadeleh/))
 
 ## 🛠 Skills
-C#.Net, JavaScript, Html, CSS, Kotlin, SQL <br />
-Web : ASP.NET, MVC, RazorPages, Blazor, WebAPI <br />
-Mobile : Kotlin , MAUI <br />
-Windows : WinForms, WPF <br />
+
+C#.Net, JavaScript, Html, CSS, Kotlin, SQL 
+
+## Tech Stack
+
+Web : ASP.NET, MVC, RazorPages, Blazor, WebAPI 
+
+Mobile : Kotlin , MAUI 
+
+Windows : WinForms, WPF 
+
+🧠 I'm currently learning ML.Net, OpenCV (EMGU.Net)
+
+👩‍💻 I'm currently working on an AI based project (top secret 😎)
